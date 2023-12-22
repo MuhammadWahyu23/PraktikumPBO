@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Ledakan2
+comment0.text=\r\n\ Kelas\ Ledakan2\ merupakan\ turunan\ dari\ kelas\ Actor.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ Metode\ act\ dipanggil\ pada\ setiap\ frame\ dan\ digunakan\ untuk\ menjalankan\ logika\ objek.\r\n
+numComments=2

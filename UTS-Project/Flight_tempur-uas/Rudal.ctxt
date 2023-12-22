@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Rudal
+comment0.text=\r\n\ Kelas\ Rudal\ merupakan\ turunan\ dari\ kelas\ Actor.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=void\ gerak()
+comment1.text=\r\n\ Metode\ act\ dipanggil\ pada\ setiap\ frame\ dan\ digunakan\ untuk\ menjalankan\ logika\ objek\ Rudal.\r\n\ Objek\ Rudal\ akan\ bergerak\ ke\ atas\ dan\ dihapus\ jika\ sudah\ mencapai\ batas\ atas\ atau\ menyentuh\ Musuh.\r\n
+comment2.params=
+comment2.target=void\ cek_kena()
+comment2.text=\r\n\ Metode\ cek_kena\ digunakan\ untuk\ memeriksa\ apakah\ rudal\ menyentuh\ objek\ Musuh.\r\n\ Jika\ iya,\ maka\ ledakan\ akan\ ditambahkan,\ skor\ akan\ diupdate,\ suara\ ledakan\ akan\ diputar,\ dan\ objek\ Musuh\ yang\ disentuh\ akan\ dihapus.\r\n
+comment3.params=
+comment3.target=void\ act()
+comment3.text=\r\n\ Metode\ act\ dipanggil\ pada\ setiap\ frame\ dan\ menjalankan\ metode\ gerak()\ untuk\ pergerakan\ rudal.\r\n
+numComments=4
