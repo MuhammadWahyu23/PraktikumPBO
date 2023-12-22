@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=kalah
+comment0.text=\r\n\ Kelas\ kalah\ merupakan\ turunan\ dari\ kelas\ Actor.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ Metode\ act\ dipanggil\ pada\ setiap\ frame\ dan\ dapat\ digunakan\ untuk\ menambahkan\ logika\ atau\ aksi\ tertentu.\r\n\ Pada\ contoh\ ini,\ teks\ "Game\ Over"\ akan\ ditampilkan\ di\ tengah\ layar\ saat\ objek\ kalah\ aktif.\r\n
+numComments=2

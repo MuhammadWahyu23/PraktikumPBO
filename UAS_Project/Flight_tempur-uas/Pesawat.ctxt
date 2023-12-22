@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Pesawat
+comment0.text=\r\n\ Kelas\ Pesawat\ merupakan\ turunan\ dari\ kelas\ Actor.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=void\ tombol()
+comment1.text=\r\n\ Metode\ untuk\ menggerakkan\ pesawat\ dan\ menembak\ rudal.\r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Metode\ act\ dipanggil\ pada\ setiap\ frame\ dan\ digunakan\ untuk\ menjalankan\ logika\ objek\ Pesawat.\r\n
+numComments=3

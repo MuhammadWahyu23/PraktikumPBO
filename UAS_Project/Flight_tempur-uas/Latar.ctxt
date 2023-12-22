@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Latar
+comment1.params=
+comment1.target=Latar()
+comment1.text=\r\n\ Constructor\ untuk\ objek\ kelas\ Latar.\r\n
+comment2.params=point
+comment2.target=void\ updateUwU(int)
+comment3.params=
+comment3.target=void\ tampilUwU()
+comment4.params=points
+comment4.target=void\ addScore(int)
+comment5.params=
+comment5.target=void\ tampilscore()
+comment6.params=
+comment6.target=void\ act()
+numComments=7

@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Menang
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ Metode\ act\ dipanggil\ pada\ setiap\ frame\ dan\ digunakan\ untuk\ menjalankan\ logika\ objek.\r\n
+numComments=2
